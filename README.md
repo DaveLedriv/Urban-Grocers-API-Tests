@@ -1,2 +1,18 @@
-# Urban-Grocers-API-Tests
-En este repositorio se encuentra la documentación de las pruebas a la API de Urban Routes. Una plataforma web para pedir productos de abarrotes a domicilio.
+# Proyecto de Pruebas API para Urban Grocers
+
+Este repositorio contiene la documentación y los recursos relacionados con el proyecto de pruebas API realizado para una aplicación web.
+
+## Contenido
+
+- [Plan de Pruebas](PlanDePruebasUG.md)
+- [Casos de Prueba](CasosDePrueba.md)
+- [Reporte de Defectos](ReporteDeBugs.md)
+
+
+## Descripción del Proyecto
+
+Este proyecto se enfoca en la realización de pruebas API para una aplicación web con el objetivo de asegurar su calidad y funcionalidad. La aplicación web es un sistema para pedir productos de abarrotes a domicilio con la funcinalidad de crear, editar y eliminar kits de productos, además de una funcíon de carrito de compras. Esta aplicación lleva por nombre Urban Grocers.
+
+## Herramientas Utilizadas
+
+- Postman
