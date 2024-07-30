@@ -16,3 +16,4 @@ Este proyecto se enfoca en la realización de pruebas API para una aplicación w
 ## Herramientas Utilizadas
 
 - Postman
+- JIRA
