@@ -1,6 +1,6 @@
 # Proyecto de Pruebas API para Urban Grocers
 
-Este repositorio contiene la documentación y los recursos relacionados con el proyecto de pruebas API realizado para una aplicación web.
+Este repositorio contiene la documentación y los recursos relacionados con el proyecto de pruebas API realizado para Urban Grocers. Una aplicación para ver la disponibilidad de productos de abarrotes en zonas urbanas.
 
 ## Contenido
 
